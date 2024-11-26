@@ -112,11 +112,12 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 ---
 
 ### 🎨 About Me:
-<p align="center">
+<div align="center" style="line-height: 3;">
     <a href="https://github.com/CodderPrince">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=1000&lines=I’m+currently+working+on+Online+Business!;Learning+competitive+programming!;Collaborating+on+GitHub+projects!;Ask+me+about+coding+and+tech!">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=800&lines=I’m+currently+working+on+Online+Business!;Learning+competitive+programming!;Collaborating+on+GitHub+projects!;Ask+me+about+coding+and+tech!" style="display: block; padding-bottom: 20px;">
     </a>
-</p>
+</div>
+
 
 
 ---
