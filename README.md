@@ -1,36 +1,47 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodderPrince)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.annahian)  
-
 ### Hi there 👋, I'm Prince
 #### Competitive Programmer & Website Developer
 ![Competitive Programmer & Website Developer](https://i.imghippo.com/files/BUs5L1728644960.png)
 
-I am currently studying in Computer Science and Engineering(CSE) at Begum Rokeya University, Rangpur. I am a competitive programmer and now i am learning to Website Development.
+I am currently studying in Computer Science and Engineering (CSE) at Begum Rokeya University, Rangpur. I am a competitive programmer and now I am learning Website Development.
 
-Skills: C, C++, Python, Java, Html, CSS
+---
 
-- 🔭 I’m currently working on Online Business 
-- 🌱 I’m currently learning Java, Python, C++, Html 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Project 
-- 💬 Ask me about Competitive Programming 
-- 📫 How to reach me: Facebook 
-- 😄 Pronouns: Raajkumar 
-- ⚡ Fun fact: Programming 
+### Skills:
+- **Programming Languages:** C, C++, Python, Java
+- **Web Development:** HTML, CSS
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodderPrince)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.annahian)  
+### 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=CodderPrince)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
+### 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=CodderPrince)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true)  
+### 🌟 Connect with Me:
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/CodderPrince/contributions?format=svg&private=true)  
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40" style="color:#181717;">](https://github.com/CodderPrince)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" height="40" style="color:#1877F2;">](https://www.facebook.com/md.annahian)
 
-![GitHub metrics](https://metrics.lecoq.io/CodderPrince)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=CodderPrince)  
+### 🔢 View Counter:
+![Profile Views](https://komarev.com/ghpvc/?username=CodderPrince&color=blue)
 
+---
+
+### About Me:
+- 🔭 I’m currently working on Online Business
+- 🌱 I’m currently learning Java, Python, C++, HTML
+- 👯 I’m looking to collaborate on GitHub
+- 🤔 I’m looking for help with Project
+- 💬 Ask me about Competitive Programming
+- 📫 How to reach me: [Facebook](https://www.facebook.com/md.annahian)
+- 😄 Pronouns: Raajkumar
+- ⚡ Fun fact: Programming
