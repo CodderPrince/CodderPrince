@@ -11,7 +11,7 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 #### Dimik OJ
 <div align="center">
   <a href="https://dimikoj.com/profile/0gm8?hacker_30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size40=&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Ranked+1+on+Dimik+OJ!;🏆+Top+Competitive+Coder!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size10=&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Ranked+1+on+Dimik+OJ!;🏆+Top+Competitive+Coder!">
   </a>
 </div>
 
