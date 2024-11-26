@@ -38,7 +38,7 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 
 #### Other Competitive Programming Platforms:
 
-<img src="https://img.icons8.com/color/48/000000/codeforces.png" height="30"> **Codeforces:** [Profile Link](https://codeforces.com/profile/Prince.001)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces_logo.svg" height="30"> **Codeforces:** [Profile Link](https://codeforces.com/profile/Prince.001)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"> **LeetCode:** [Profile Link](https://leetcode.com/u/PRINCE_30/)
 
@@ -47,6 +47,7 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 <img src="https://img.icons8.com/color/48/000000/codechef.png" height="30"> **CodeChef:** [Profile Link](https://www.codechef.com/users/annahian44)
 
 <img src="https://lightoj.com/static/images/LightOJ-logo.png" height="30"> **LightOJ:** [Profile Link](https://lightoj.com/user/user-93l1ije)
+
 
 ---
 
