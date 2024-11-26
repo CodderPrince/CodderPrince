@@ -118,8 +118,9 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 ---
 
 ### ⚙️ Fun Widgets:
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=radical" alt="Summary Card">
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=radical" alt="GitHub Summary Card" style="margin-bottom: 20px;">
     <br/>
     <img src="https://activity-graph.herokuapp.com/graph?username=CodderPrince&theme=rogue&hide_border=true" alt="GitHub Activity Graph">
-</p>
+</div>
+
