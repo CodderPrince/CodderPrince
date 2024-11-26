@@ -1,6 +1,21 @@
-### Assalamu Alaikum, I'm Prince!👋
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=👋+Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
+  </a>
+</p>
 
-#### Competitive Programmer & Website Developer
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Explore+my+Projects,+Skills,+and+Learning+Journey!" alt="Explore My Journey">
+  </a>
+</p>
+
 ![Competitive Programmer & Website Developer](https://i.imghippo.com/files/BUs5L1728644960.png)
 
 I am currently studying in **Computer Science and Engineering (CSE)** at **Begum Rokeya University, Rangpur**. I am a competitive programmer and now I am learning Website Development.
@@ -18,79 +33,195 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 
 ---
 
+
 ### 🌟 Skills:
-- **Programming Languages:** C, C++, Python, Java, Dart
-- **Web Development:** HTML, CSS, JavaScript
-- **Frameworks & Tools:** JavaFX, Flutter (learning)
+
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=800&lines=💻+Programming+Languages:+C, C%2B%2B,+Python,+Java,+Dart" alt="Programming Languages">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=28A745&width=800&lines=🌐+Web+Development:+HTML,+CSS,+JavaScript" alt="Web Development">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007BFF&width=800&lines=🛠️+Frameworks+%26+Tools:+JavaFX,+Flutter+(learning)" alt="Frameworks and Tools">
+  </a>
+</p>
+
 
 ---
 
 ### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+<div align="center" style="font-size: larger;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700" alt="🔥 GitHub Stats" width="450"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="450"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&layout=compact&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500" alt="🔥 Top Languages" width="450"/>
 </div>
 
+
+
+
+<hr> <!-- Line Before -->
+
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=Competitive+Programmer;" alt="Competitive Programmer">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Website+Developer;" alt="Website Developer">
+  </a>
+</p>
+
+<hr> <!-- Line After -->
+
+
+### Other Competitive Programming Platforms:
+
+- ⭐ **[Codeforces](https://codeforces.com/profile/Prince.001):** Competitive Programming Platform
+- 💡 **[LeetCode](https://leetcode.com/u/PRINCE_30/):** Coding Problems & Solutions
+- 🐝 **[Beecrowd](https://judge.beecrowd.com/en/profile/814166):** Programming Challenges
+- 🍴 **[CodeChef](https://www.codechef.com/users/annahian44):** Competitive Coding Contests
+- 🌟 **[LightOJ](https://lightoj.com/user/user-93l1ije):** Problem-Solving Practice
+
 ---
-
-
-#### Other Competitive Programming Platforms:
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces_logo.svg" height="30"> **Codeforces:** [Profile Link](https://codeforces.com/profile/Prince.001)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"> **LeetCode:** [Profile Link](https://leetcode.com/u/PRINCE_30/)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Beecrowd_logo.png" height="30"> **Beecrowd:** [Profile Link](https://judge.beecrowd.com/en/profile/814166)
-
-<img src="https://img.icons8.com/color/48/000000/codechef.png" height="30"> **CodeChef:** [Profile Link](https://www.codechef.com/users/annahian44)
-
-<img src="https://lightoj.com/static/images/LightOJ-logo.png" height="30"> **LightOJ:** [Profile Link](https://lightoj.com/user/user-93l1ije)
-
-
----
-
 ### 🌟 Connect with Me:
-- **Gmail:** cse12105007brur@gmail.com
-- **Codeforces:** [Prince.001](https://codeforces.com/profile/Prince.001)
 
-<div align="center">
-  <a href="https://github.com/CodderPrince" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&logoWidth=30" style="border-radius: 50%;" alt="GitHub">
+<p align="left">
+  <a href="mailto:cse12105007brur@gmail.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFA500&width=800&lines=📧+Gmail:+cse12105007brur@gmail.com" alt="Gmail">
   </a>
+</p>
+
+<p align="left">
+  <a href="https://codeforces.com/profile/Prince.001">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&width=800&lines=💻+Codeforces:+Prince.001" alt="Codeforces">
+  </a>
+</p>
+
+
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- GitHub Icon -->
+  <a href="https://github.com/CodderPrince" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"
+    style="border-radius: 50%; height: 70px; width: 180px;">
+  </a>
+  
+  <!-- Facebook Icon -->
   <a href="https://www.facebook.com/md.annahian" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&logoWidth=30" style="border-radius: 50%;" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"
+    style="border-radius: 150%; height: 70px; width: 190px;">
   </a>
 </div>
+
+
 
 ---
 
 ### 🔢 Profile Views:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodderPrince&color=blue&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=CodderPrince&color=blue&style=for-the-badge" alt="Profile Views"
+    style="border-radius: 150%; height: 70px; width: 190px;">
 </p>
 
 ---
 
 ### ✨ Currently Learning:
-- 🌱 Dart (programming language for Flutter and backend)
-- 🌱 Flutter (building cross-platform mobile apps)
-- 🌱 JavaFX (for Java desktop GUI applications)
-- 🌱 JavaScript (for web development)
+
+<p align="left">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4500&width=800&lines=🔥+Dart+(programming+language+for+Flutter+and+backend)" alt="Dart Learning">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=800&lines=📱+Flutter+(building+cross-platform+mobile+apps)" alt="Flutter Learning">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&width=800&lines=💻+JavaFX+(for+Java+desktop+GUI+applications)" alt="JavaFX Learning">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&width=800&lines=🌐+JavaScript+(for+web+development)" alt="JavaScript Learning">
+  </a>
+</p>
+
+
+
+
 
 ---
 
 ### 📚 Learning Tracker:
-| **Skill**      | **Progress**                          |
-|-----------------|--------------------------------------|
-| **Dart**        | 70%                                  |
-| **JavaFX**      | 50%                                  |
-| **Flutter**     | 40%                                  |
-| **JavaScript**  | 30%                                  |
-| **Python**      | 60%                                  |
-| **HTML/CSS**    | 80%                                  |
+
+<div align="center">
+  <table style="width: 80%; font-size: 18px;">
+    <thead>
+      <tr>
+        <th align="left"><strong>Skill</strong></th>
+        <th align="center"><strong>Progress</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🌟 <strong>Dart</strong></td>
+        <td>
+          <progress max="100" value="70" style="width: 100%; height: 20px; border-radius: 10px; background: linear-gradient(to right, #FF4500, #FFD700);"></progress> 70%
+        </td>
+      </tr>
+      <tr>
+        <td>💻 <strong>JavaFX</strong></td>
+        <td>
+          <progress max="100" value="50" style="width: 100%; height: 20px; border-radius: 10px; background: linear-gradient(to right, #1E90FF, #87CEFA);"></progress> 50%
+        </td>
+      </tr>
+      <tr>
+        <td>📱 <strong>Flutter</strong></td>
+        <td>
+          <progress max="100" value="40" style="width: 100%; height: 20px; border-radius: 10px; background: linear-gradient(to right, #32CD32, #7FFF00);"></progress> 40%
+        </td>
+      </tr>
+      <tr>
+        <td>🌐 <strong>JavaScript</strong></td>
+        <td>
+          <progress max="100" value="30" style="width: 100%; height: 20px; border-radius: 10px; background: linear-gradient(to right, #FFD700, #FFA500);"></progress> 30%
+        </td>
+      </tr>
+      <tr>
+        <td>🐍 <strong>Python</strong></td>
+        <td>
+          <progress max="100" value="60" style="width: 100%; height: 20px; border-radius: 10px; background: linear-gradient(to right, #8A2BE2, #BA55D3);"></progress> 60%
+        </td>
+      </tr>
+      <tr>
+        <td>🖌️ <strong>HTML/CSS</strong></td>
+        <td>
+          <progress max="100" value="80" style="width: 100%; height: 20px; border-radius: 10px; background: linear-gradient(to right, #FF6347, #FF4500);"></progress> 80%
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
 
 ---
 
@@ -134,6 +265,7 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=radical" alt="GitHub Summary Card" style="margin-bottom: 20px;">
     <br/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=CodderPrince&theme=rogue&hide_border=true" alt="GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodderPrince&bg_color=141321&color=FFFFFF&line=FF4500&point=FFD700&area=true&hide_border=true" alt="GitHub Activity Graph">
 </div>
+
 
