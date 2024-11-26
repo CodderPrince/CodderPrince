@@ -1,15 +1,8 @@
-### <p align="center">
-    <a href="https://github.com/CodderPrince">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3BEFB4&center=true&vCenter=true&width=800&lines=Welcome+to+Md.+An+Nahian+Prince's+Profile!;Number+One+Rank+on+Dimik+OJ!;Exploring+Competitive+Programming!;Dart+%7C+Flutter+%7C+JavaFX!;Connect+%7C+Collaborate+%7C+Create!">
-    </a>
-</p>
-
----
-
-### Hi there 👋, I'm Md. An Nahian Prince
+### Hi there 👋, I'm Prince
 #### Competitive Programmer & Website Developer
+![Competitive Programmer & Website Developer](https://i.imghippo.com/files/BUs5L1728644960.png)
 
-I am currently studying **Computer Science and Engineering (CSE)** at **Begum Rokeya University, Rangpur**. I specialize in **Competitive Programming**, **Web Development**, and building frameworks with **Dart**, **JavaFX**, and **Flutter**. Passionate about solving complex problems and contributing to the open-source world.
+I am currently studying in **Computer Science and Engineering (CSE)** at **Begum Rokeya University, Rangpur**. I am a competitive programmer and now I am learning Website Development.
 
 ---
 
@@ -17,7 +10,6 @@ I am currently studying **Computer Science and Engineering (CSE)** at **Begum Ro
 - **Programming Languages:** C, C++, Python, Java, Dart
 - **Web Development:** HTML, CSS, JavaScript
 - **Frameworks & Tools:** JavaFX, Flutter (learning)
-- **Problem-Solving Platforms:** Codeforces, Dimik OJ, LeetCode, Beecrowd, CodeChef, LightOJ
 
 ---
 
@@ -82,12 +74,12 @@ I am currently studying **Computer Science and Engineering (CSE)** at **Begum Ro
 ### 📚 Learning Tracker:
 | **Skill**      | **Progress**                          |
 |-----------------|--------------------------------------|
-| **Dart**        | ![Dart](https://progress-bar.dev/70) |
-| **JavaFX**      | ![JavaFX](https://progress-bar.dev/50) |
-| **Flutter**     | ![Flutter](https://progress-bar.dev/40) |
-| **JavaScript**  | ![JavaScript](https://progress-bar.dev/30) |
-| **Python**      | ![Python](https://progress-bar.dev/60) |
-| **HTML/CSS**    | ![HTML/CSS](https://progress-bar.dev/80) |
+| **Dart**        | 70%                                  |
+| **JavaFX**      | 50%                                  |
+| **Flutter**     | 40%                                  |
+| **JavaScript**  | 30%                                  |
+| **Python**      | 60%                                  |
+| **HTML/CSS**    | 80%                                  |
 
 ---
 
@@ -97,7 +89,7 @@ I am currently studying **Computer Science and Engineering (CSE)** at **Begum Ro
 
 #### 🕹️ **Interactive GitHub Profile**
 <p align="center">
-    <a href="https://github.com/CodderPrince">
+    <a href="https://github.com/CodderPrince?tab=repositories">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Check+out+my+repositories!;I'm+exploring+Dart%2C+Flutter%2C+and+more!;Feel+free+to+connect+and+collaborate!">
     </a>
 </p>
