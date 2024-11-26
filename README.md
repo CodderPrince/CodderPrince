@@ -1,16 +1,15 @@
 ### <p align="center">
     <a href="https://github.com/CodderPrince">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3BEFB4&center=true&vCenter=true&width=700&lines=Hello+there!+Welcome+to+Prince's+Profile!;I'm+a+Competitive+Programmer!;I+am+currently+learning+Dart%2C+JavaFX%2C+and+Flutter!">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3BEFB4&center=true&vCenter=true&width=800&lines=Welcome+to+Md.+An+Nahian+Prince's+Profile!;Number+One+Rank+on+Dimik+OJ!;Exploring+Competitive+Programming!;Dart+%7C+Flutter+%7C+JavaFX!;Connect+%7C+Collaborate+%7C+Create!">
     </a>
 </p>
 
 ---
 
-### Hi there 👋, I'm Prince
+### Hi there 👋, I'm Md. An Nahian Prince
 #### Competitive Programmer & Website Developer
-![Competitive Programmer & Website Developer](https://i.imghippo.com/files/BUs5L1728644960.png)
 
-I am currently studying in Computer Science and Engineering (CSE) at Begum Rokeya University, Rangpur. I am a competitive programmer and now I am learning Website Development.
+I am currently studying **Computer Science and Engineering (CSE)** at **Begum Rokeya University, Rangpur**. I specialize in **Competitive Programming**, **Web Development**, and building frameworks with **Dart**, **JavaFX**, and **Flutter**. Passionate about solving complex problems and contributing to the open-source world.
 
 ---
 
@@ -18,12 +17,13 @@ I am currently studying in Computer Science and Engineering (CSE) at Begum Rokey
 - **Programming Languages:** C, C++, Python, Java, Dart
 - **Web Development:** HTML, CSS, JavaScript
 - **Frameworks & Tools:** JavaFX, Flutter (learning)
+- **Problem-Solving Platforms:** Codeforces, Dimik OJ, LeetCode, Beecrowd, CodeChef, LightOJ
 
 ---
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
@@ -32,14 +32,27 @@ I am currently studying in Computer Science and Engineering (CSE) at Begum Rokey
 
 ---
 
-### 🏆 Trophies:
+### 🏆 Achievements:
+#### Dimik OJ
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodderPrince&theme=onedark&row=1&column=7" alt="Trophies" />
+  <a href="https://dimikoj.com/profile/0gm8?hacker_30">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Ranked+1+on+Dimik+OJ!;🏆+Top+Competitive+Coder!">
+  </a>
 </div>
+
+#### Other Competitive Programming Platforms:
+- **Codeforces:** [Profile Link](https://codeforces.com/profile/Prince.001)
+- **LeetCode:** [Profile Link](https://leetcode.com/u/PRINCE_30/)
+- **Beecrowd:** [Profile Link](https://judge.beecrowd.com/en/profile/814166)
+- **CodeChef:** [Profile Link](https://www.codechef.com/users/annahian44)
+- **LightOJ:** [Profile Link](https://lightoj.com/user/user-93l1ije)
 
 ---
 
 ### 🌟 Connect with Me:
+- **Gmail:** cse12105007brur@gmail.com
+- **Codeforces:** [Prince.001](https://codeforces.com/profile/Prince.001)
+
 <div align="center">
   <a href="https://github.com/CodderPrince" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&logoWidth=30" style="border-radius: 50%;" alt="GitHub">
@@ -67,10 +80,6 @@ I am currently studying in Computer Science and Engineering (CSE) at Begum Rokey
 ---
 
 ### 📚 Learning Tracker:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodderPrince&repo=learning-tracker&theme=radical" alt="Learning Tracker">
-</p>
-
 | **Skill**      | **Progress**                          |
 |-----------------|--------------------------------------|
 | **Dart**        | ![Dart](https://progress-bar.dev/70) |
@@ -89,7 +98,7 @@ I am currently studying in Computer Science and Engineering (CSE) at Begum Rokey
 #### 🕹️ **Interactive GitHub Profile**
 <p align="center">
     <a href="https://github.com/CodderPrince">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Check+out+my+repositories!;I'm+exploring+Dart%2C+Flutter%2C+and+more!;Feel+free+to+connect+and+collaborate!">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Check+out+my+repositories!;I'm+exploring+Dart%2C+Flutter%2C+and+more!;Feel+free+to+connect+and+collaborate!">
     </a>
 </p>
 
