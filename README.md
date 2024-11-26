@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Prince
+### Assalamu Alaikum, I'm Prince!👋
+
 #### Competitive Programmer & Website Developer
 ![Competitive Programmer & Website Developer](https://i.imghippo.com/files/BUs5L1728644960.png)
 
@@ -36,11 +37,16 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 
 
 #### Other Competitive Programming Platforms:
-- **Codeforces:** [<img src="https://img.icons8.com/color/48/000000/codeforces.png" height="20"> Profile Link](https://codeforces.com/profile/Prince.001)
-- **LeetCode:** [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="20"> Profile Link](https://leetcode.com/u/PRINCE_30/)
-- **Beecrowd:** [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Beecrowd_logo.png" height="20"> Profile Link](https://judge.beecrowd.com/en/profile/814166)
-- **CodeChef:** [<img src="https://img.icons8.com/color/48/000000/codechef.png" height="20"> Profile Link](https://www.codechef.com/users/annahian44)
-- **LightOJ:** [<img src="https://lightoj.com/static/images/LightOJ-logo.png" height="20"> Profile Link](https://lightoj.com/user/user-93l1ije)
+
+<img src="https://img.icons8.com/color/48/000000/codeforces.png" height="30"> **Codeforces:** [Profile Link](https://codeforces.com/profile/Prince.001)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"> **LeetCode:** [Profile Link](https://leetcode.com/u/PRINCE_30/)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Beecrowd_logo.png" height="30"> **Beecrowd:** [Profile Link](https://judge.beecrowd.com/en/profile/814166)
+
+<img src="https://img.icons8.com/color/48/000000/codechef.png" height="30"> **CodeChef:** [Profile Link](https://www.codechef.com/users/annahian44)
+
+<img src="https://lightoj.com/static/images/LightOJ-logo.png" height="30"> **LightOJ:** [Profile Link](https://lightoj.com/user/user-93l1ije)
 
 ---
 
