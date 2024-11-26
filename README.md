@@ -36,11 +36,11 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 
 
 #### Other Competitive Programming Platforms:
-- **Codeforces:** [Profile Link](https://codeforces.com/profile/Prince.001)
-- **LeetCode:** [Profile Link](https://leetcode.com/u/PRINCE_30/)
-- **Beecrowd:** [Profile Link](https://judge.beecrowd.com/en/profile/814166)
-- **CodeChef:** [Profile Link](https://www.codechef.com/users/annahian44)
-- **LightOJ:** [Profile Link](https://lightoj.com/user/user-93l1ije)
+- **Codeforces:** [<img src="https://img.icons8.com/color/48/000000/codeforces.png" height="20"> Profile Link](https://codeforces.com/profile/Prince.001)
+- **LeetCode:** [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="20"> Profile Link](https://leetcode.com/u/PRINCE_30/)
+- **Beecrowd:** [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Beecrowd_logo.png" height="20"> Profile Link](https://judge.beecrowd.com/en/profile/814166)
+- **CodeChef:** [<img src="https://img.icons8.com/color/48/000000/codechef.png" height="20"> Profile Link](https://www.codechef.com/users/annahian44)
+- **LightOJ:** [<img src="https://lightoj.com/static/images/LightOJ-logo.png" height="20"> Profile Link](https://lightoj.com/user/user-93l1ije)
 
 ---
 
