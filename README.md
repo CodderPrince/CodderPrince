@@ -6,9 +6,10 @@ I am currently studying in Computer Science and Engineering (CSE) at Begum Rokey
 
 ---
 
-### Skills:
-- **Programming Languages:** C, C++, Python, Java
+### 🌟 Skills:
+- **Programming Languages:** C, C++, Python, Java, Dart
 - **Web Development:** HTML, CSS
+- **Frameworks & Tools:** JavaFX, Flutter (learning)
 
 ---
 
@@ -25,9 +26,14 @@ I am currently studying in Computer Science and Engineering (CSE) at Begum Rokey
 ---
 
 ### 🌟 Connect with Me:
-
-[<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/CodderPrince)
-[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">](https://www.facebook.com/md.annahian)
+<div align="center">
+  <a href="https://github.com/CodderPrince" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black&logoWidth=30" style="border-radius: 50%;" alt="GitHub">
+  </a>
+  <a href="https://www.facebook.com/md.annahian" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&logoWidth=30" style="border-radius: 50%;" alt="Facebook">
+  </a>
+</div>
 
 ---
 
@@ -37,6 +43,31 @@ I am currently studying in Computer Science and Engineering (CSE) at Begum Rokey
 </p>
 
 ---
+
+### ✨ Currently Learning:
+- 🌱 Dart (programming language for Flutter and backend)
+- 🌱 Flutter (building cross-platform mobile apps)
+- 🌱 JavaFX (for Java desktop GUI applications)
+
+---
+
+### 🔥 Unique Features:
+#### 🌌 **Custom Widgets for Flutter**
+- Actively building reusable custom widgets for Flutter, which are shared in repositories.
+
+#### 🕹️ **Interactive GitHub Profile**
+- Added fun widgets for visitors! You can try clicking below:
+  <p align="center">
+    <a href="https://github.com/CodderPrince">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BEFB4&center=true&vCenter=true&multiline=true&width=600&lines=Hello+there!+Welcome+to+Prince's+Profile!;I'm+a+competitive+programmer!;I'm+learning+Dart%2C+JavaFX%2C+and+Flutter!">
+    </a>
+  </p>
+
+#### 📚 **Learning Tracker**
+```plaintext
+Dart        : ████████░░░░  70%
+JavaFX      : ██████░░░░░░  50%
+Flutter     : █████░░░░░░░  40%
 
 ### About Me:
 - 🔭 I’m currently working on Online Business
