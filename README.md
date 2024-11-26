@@ -26,13 +26,15 @@ I am currently studying in Computer Science and Engineering (CSE) at Begum Rokey
 
 ### 🌟 Connect with Me:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40" style="color:#181717;">](https://github.com/CodderPrince)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" height="40" style="color:#1877F2;">](https://www.facebook.com/md.annahian)
+[<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/CodderPrince)
+[<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">](https://www.facebook.com/md.annahian)
 
 ---
 
-### 🔢 View Counter:
-![Profile Views](https://komarev.com/ghpvc/?username=CodderPrince&color=blue)
+### 🔢 Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodderPrince&color=blue&style=for-the-badge" alt="Profile Views">
+</p>
 
 ---
 
