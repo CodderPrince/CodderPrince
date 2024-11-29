@@ -58,32 +58,39 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 ---
 
 ### 📊 GitHub Stats:
-<div align="center" style="font-size: larger;">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700" alt="🔥 GitHub Stats" width="450"/>
+<div align="center" style="font-size: xx-large;">
+  <!-- Fixed height with overflow handling -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700" alt="🔥 GitHub Stats" width="700" style="height: 300px; object-fit: cover;"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="450"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="700" style="height: 300px; object-fit: cover; border: 2px solid #FF4500;"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&layout=compact&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500" alt="🔥 Top Languages" width="450"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&layout=compact&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500" alt="🔥 Top Languages" width="900" style="height: 400px; object-fit: cover; border: 2px solid #FF4500;"/>
 </div>
-
-
 
 
 <hr> <!-- Line Before -->
 
+<hr> <!-- Line After -->
+
+
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=Competitive+Programmer;" alt="Competitive Programmer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=Competitive+Programmer;" alt="Competitive Programmer">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Website+Developer;" alt="Website Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Website+Developer;" alt="Website Developer">
   </a>
 </p>
 
 <hr> <!-- Line After -->
+
+
+
 
 
 ### Other Competitive Programming Platforms:
