@@ -1,4 +1,15 @@
 <!-- 
+Copyright Notice
+This README.md file is the intellectual property of @Prince. All rights to this content are reserved.
+
+You may copy, distribute, and use the contents of this file, but you must attribute the original author, @Prince, in any derived work or redistribution.
+
+©️ All rights reserved by @CodderPrince.
+-->
+
+
+
+<!-- 
 This is Salam Section
 1. Salam
 -->
@@ -83,7 +94,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=800&lines=💻+Programming+Languages:+C, C%2B%2B,+Python,+Java,+Dart" alt="Programming Languages">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=900&lines=💻+Programming+Languages:+C, C%2B%2B,+Python,+Java,+Dart" alt="Programming Languages">
   </a>
 </p>
 
@@ -92,7 +103,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=28A745&width=800&lines=🌐+Web+Development:+HTML,+CSS,+JavaScript" alt="Web Development">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=28A745&width=900&lines=🌐+Web+Development:+HTML,+CSS,+JavaScript" alt="Web Development">
   </a>
 </p>
 
@@ -101,7 +112,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007BFF&width=800&lines=🛠️+Frameworks+%26+Tools:+JavaFX,+Flutter+(learning)" alt="Frameworks and Tools">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007BFF&width=900&lines=🛠️+Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
   </a>
 </p>
 
