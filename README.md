@@ -103,7 +103,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=90EE90&width=900&lines=🌐+Web+Development:+HTML,+CSS,+JavaScript" alt="Web Development">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=90EE90&width=900&lines=🌐+Web+Development:+HTML,+CSS,+JavaScript+React" alt="Web Development">
   </a>
 </p>
 
