@@ -39,7 +39,7 @@ This is Explore Section
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Explore+my+Projects,+Skills,+and+Learning+Journey!" alt="Explore My Journey">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=87CEEB&center=true&vCenter=true&width=1000&lines=Explore+my+Projects,+Skills,+and+Learning+Journey!" alt="Explore My Journey">
   </a>
 </p>
 
@@ -103,7 +103,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=28A745&width=900&lines=🌐+Web+Development:+HTML,+CSS,+JavaScript" alt="Web Development">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=90EE90&width=900&lines=🌐+Web+Development:+HTML,+CSS,+JavaScript" alt="Web Development">
   </a>
 </p>
 
@@ -112,7 +112,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007BFF&width=900&lines=🛠️+Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFF00&width=900&lines=🛠️+Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
   </a>
 </p>
 
