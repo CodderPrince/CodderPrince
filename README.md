@@ -1,16 +1,5 @@
 
 
-<p align="center">
-  <!-- WakaTime Badge -->
-  <a href="https://wakatime.com/@c676fa9d-3a8e-476b-8cdd-5a9be93b4e0f">
-    <img src="https://wakatime.com/badge/user/c676fa9d-3a8e-476b-8cdd-5a9be93b4e0f.svg" alt="Total time coded" />
-  </a>
-  
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=CodderPrince&color=blue" alt="Profile Views" />
-</p>
-
-
 
 <!-- This is Salam Section
 1. Salam
@@ -145,9 +134,28 @@ Achievements
 
 <hr> <!-- Line After -->
 
+---
+### ⏳ Wakape Progress:
+<p align="center">
+  <a href="https://wakatime.com/@f2271a6c-676c-428b-a051-d03c7aeba97c">
+    <img src="https://wakatime.com/badge/user/f2271a6c-676c-428b-a051-d03c7aeba97c.svg" alt="Total time coded" style="width: 400px; height: 100px;"/>
+  </a>
+</p>
+
+---
 
 
 
+### 🔢 Profile Views:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodderPrince&color=blue&style=for-the-badge" alt="Profile Views"
+    style="border-radius: 150%; height: 100px; width: 400px;">
+</p>
+
+
+
+
+---
 
 ### Other Competitive Programming Platforms:
 
@@ -190,13 +198,6 @@ Achievements
 
 
 
----
-
-### 🔢 Profile Views:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodderPrince&color=blue&style=for-the-badge" alt="Profile Views"
-    style="border-radius: 150%; height: 70px; width: 190px;">
-</p>
 
 ---
 
