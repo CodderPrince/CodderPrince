@@ -1,34 +1,11 @@
-<h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">Other Competitive Programming Platforms:</h2>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">⭐ <a href="https://codeforces.com/profile/Prince.001" style="text-decoration: none; color: #000;">Codeforces</a> : Competitive Programming Platform</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💡<a href="https://leetcode.com/u/PRINCE_30/" style="text-decoration: none; color: #000;">LeetCode</a> : Coding Problems & Solutions</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🐝 <a href="https://judge.beecrowd.com/en/profile/814166" style="text-decoration: none; color: #000;">Beecrowd</a> : Programming Challenges</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🍴 <a href="https://www.codechef.com/users/annahian44" style="text-decoration: none; color: #000;">CodeChef</a> : Competitive Coding Contests</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌟 <a href="https://lightoj.com/user/user-93l1ije" style="text-decoration: none; color: #000;">LightOJ</a> : Problem-Solving Practice</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🧑‍🍳 <a href="https://codemama.io/?enroll=true" style="text-decoration: none; color: #000;">CodeMama</a> : Dart Programming Platform</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🚀 <a href="https://www.hackerearth.com/@annahian44/" style="text-decoration: none; color: #000;">HackerEarth</a> : Coding Challenges & Competitions</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌟 <a href="https://lightoj.com/user/user-93l1ije" style="text-decoration: none; color: #000;">LightOJ</a> : Problem-Solving Practice</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌐 <a href="https://vjudge.net/user/Prince_44" style="text-decoration: none; color: #000;">VJudge</a> : Online Judge Platform</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💻 <a href="https://atcoder.jp/users/PRINCE_14" style="text-decoration: none; color: #000;">AtCoder</a> : Competitive Programming Platform</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌐 <a href="https://bapsoj.org/" style="text-decoration: none; color: #000;">BAPSOJ</a> : Online Judge Platform</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🎯 <a href="https://cses.fi/user/194703" style="text-decoration: none; color: #000;">CSES Problem Set</a> : Problem-Solving Platform</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💻 <a href="https://www.hackerrank.com/profile/annahian44" style="text-decoration: none; color: #000;">HackerRank</a> : Coding Challenges & Competitions</h3>
 
 
 
----
+
+
+
+
+
 <!-- 
 This is Salam Section
 1. Salam
@@ -189,7 +166,7 @@ Most Used Languages
 
 <p align="center">
   <a href="https://wakatime.com/@f2271a6c-676c-428b-a051-d03c7aeba97c">
-    <img src="https://wakatime.com/badge/user/f2271a6c-676c-428b-a051-d03c7aeba97c.svg" alt="Total time coded" style="width: 500px; height: 130px;"/>
+    <img src="https://wakatime.com/badge/user/f2271a6c-676c-428b-a051-d03c7aeba97c.svg" alt="Total time coded" style="width: 1000px; height: 150px;"/>
   </a>
 </p>
 
@@ -212,7 +189,7 @@ Most Used Languages
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodderPrince&color=blue&style=for-the-badge" alt="Profile Views"
-    style="border-radius: 150%; height: 130px; width: 500px;">
+    style="border-radius: 150%; height: 150px; width: 800px;">
 </p>
 
 
@@ -234,19 +211,50 @@ Most Used Languages
 
 
 
-<h2 align="left">Other Competitive Programming Platforms:</h2>
+<h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">Other Competitive Programming Platforms:</h2>
 
-<h3 align="left">⭐ [Codeforces](https://codeforces.com/profile/Prince.001):** Competitive Programming Platform</h3>
-- 💡 **[LeetCode](https://leetcode.com/u/PRINCE_30/):** Coding Problems & Solutions
-- 🐝 **[Beecrowd](https://judge.beecrowd.com/en/profile/814166):** Programming Challenges
-- 🍴 **[CodeChef](https://www.codechef.com/users/annahian44):** Competitive Coding Contests
-- 🌟 **[LightOJ](https://lightoj.com/user/user-93l1ije):** Problem-Solving Practice
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">⭐ <a href="https://codeforces.com/profile/Prince.001" style="text-decoration: none; color: #000;">Codeforces</a> : Competitive Programming Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💡<a href="https://leetcode.com/u/PRINCE_30/" style="text-decoration: none; color: #000;">LeetCode</a> : Coding Problems & Solutions</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🐝 <a href="https://judge.beecrowd.com/en/profile/814166" style="text-decoration: none; color: #000;">Beecrowd</a> : Programming Challenges</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🍴 <a href="https://www.codechef.com/users/annahian44" style="text-decoration: none; color: #000;">CodeChef</a> : Competitive Coding Contests</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌟 <a href="https://lightoj.com/user/user-93l1ije" style="text-decoration: none; color: #000;">LightOJ</a> : Problem-Solving Practice</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🧑‍🍳 <a href="https://codemama.io/?enroll=true" style="text-decoration: none; color: #000;">CodeMama</a> : Dart Programming Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🚀 <a href="https://www.hackerearth.com/@annahian44/" style="text-decoration: none; color: #000;">HackerEarth</a> : Coding Challenges & Competitions</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌟 <a href="https://lightoj.com/user/user-93l1ije" style="text-decoration: none; color: #000;">LightOJ</a> : Problem-Solving Practice</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌐 <a href="https://vjudge.net/user/Prince_44" style="text-decoration: none; color: #000;">VJudge</a> : Online Judge Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💻 <a href="https://atcoder.jp/users/PRINCE_14" style="text-decoration: none; color: #000;">AtCoder</a> : Competitive Programming Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌐 <a href="https://bapsoj.org/" style="text-decoration: none; color: #000;">BAPSOJ</a> : Online Judge Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🎯 <a href="https://cses.fi/user/194703" style="text-decoration: none; color: #000;">CSES Problem Set</a> : Problem-Solving Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💻 <a href="https://www.hackerrank.com/profile/annahian44" style="text-decoration: none; color: #000;">HackerRank</a> : Coding Challenges & Competitions</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌐 <a href="https://icpc.global/private/profile/1050637" style="text-decoration: none; color: #000;">ICPC Profile</a> : International Collegiate Programming Contest</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌐 <a href="https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3" style="text-decoration: none; color: #000;">UVa Online Judge</a> : Problem-Solving Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🏆 <a href="https://acm.timus.ru/author.aspx?id=60770" style="text-decoration: none; color: #000;">Timus Online Judge</a> : Competitive Programming Challenges</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🎮 <a href="https://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=PRINCE14" style="text-decoration: none; color: #000;">Aizu Online Judge</a> : Programming Challenges</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🔧 <a href="https://www.udebug.com/raajkumar30" style="text-decoration: none; color: #000;">uDebug</a> : Debugging & Problem Solving</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💻 <a href="https://www.geeksforgeeks.org/user/annahiz6ho/?ref=header_profile" style="text-decoration: none; color: #000;">GeeksforGeeks</a> : Programming Tutorials & Resources</h3>
 
 ---
 
 
-
-### 🌟 Connect with Me:
+<h2 align="left">🌟 Connect with Me:</h2>
 
 <p align="left">
   <a href="mailto:cse12105007brur@gmail.com">
@@ -281,7 +289,7 @@ Most Used Languages
 
 ---
 
-### ✨ Currently Learning:
+<h2 align="left">✨ Currently Learning:</h2>
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
@@ -312,8 +320,7 @@ Most Used Languages
 
 
 ---
-
-### 📚 Learning Tracker:
+<h2 align="left">📚 Learning Tracker:</h2>
 
 <div align="center">
   <table style="width: 80%; font-size: 18px;">
@@ -368,33 +375,65 @@ Most Used Languages
 
 
 ---
+<h2 align="left">🔥 Unique Features:</h2>
 
-### 🔥 Unique Features:
-#### 🌌 **Custom Widgets for Flutter**
-- Actively building reusable custom widgets for Flutter, which are shared in repositories.
 
-#### 🕹️ **Interactive GitHub Profile**
+<h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">🌌 <strong>Custom Widgets for Flutter</strong></h2>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">• Actively building reusable custom widgets for Flutter, which are shared in repositories.</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">• Focus on colorful animations and user-friendly design.</h3>
+
+
+
+
+---
+
+
+
+<h2 align="left">🕹️ Interactive GitHub Profile</h2>
+
 <p align="center">
     <a href="https://github.com/CodderPrince?tab=repositories">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Check+out+my+repositories!;I'm+exploring+Dart%2C+Flutter%2C+and+more!;Feel+free+to+connect+and+collaborate!">
     </a>
 </p>
 
-#### 🎯 **Goals for 2024**:
-- Build at least **3 projects** in Flutter.
-- Develop reusable components in JavaFX.
-- Contribute to **open-source Dart projects**.
+
+
 
 ---
 
-### ⚡ Fun Fact:
+
+
+
+<h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">🌟 <strong>Goals for Development</strong></h2>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">• Build at least <strong>3 projects</strong> in Flutter.</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">• Develop reusable components in <strong>JavaFX</strong>.</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">• Contribute to <strong>open-source Dart projects</strong>.</h3>
+
+
+
+
+---
+
+
+
+
+
+<h2 align="left">⚡ Fun Fact:</h2>
+
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card">
 </p>
 
----
 
-### 🎨 About Me:
+---
+<h2 align="left">🎨 About Me:</h2>
+
 <div align="center" style="line-height: 3;">
     <a href="https://github.com/CodderPrince">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=800&lines=Ask+me+about+coding+and+technology related question!" style="display: block; padding-bottom: 20px;">
@@ -405,11 +444,15 @@ Most Used Languages
 
 ---
 
-### ⚙️ Fun Widgets:
+
+<h2 align="left" style="font-size: 30px; color: #FF6347;">⚙️ Fun Widgets:</h2>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=radical" alt="GitHub Summary Card" style="margin-bottom: 20px;">
+    <!-- GitHub Summary Card with adjusted width and height -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=radical" alt="GitHub Summary Card" style="margin-bottom: 20px; width: 90%; height: auto; border-radius: 15px;">
     <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodderPrince&bg_color=141321&color=FFFFFF&line=FF4500&point=FFD700&area=true&hide_border=true" alt="GitHub Activity Graph">
+    <!-- GitHub Activity Graph with adjusted width, height, and more vibrant colors -->
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodderPrince&bg_color=141321&color=FFFFFF&line=FF6347&point=FFD700&area=true&hide_border=true&theme=dark" alt="GitHub Activity Graph" style="max-width: 100%; height: 400px; border-radius: 20px;">
 </div>
+
 
 
