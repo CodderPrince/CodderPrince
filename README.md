@@ -1,27 +1,64 @@
+
+
 <p align="center">
+  <!-- WakaTime Badge -->
+  <a href="https://wakatime.com/@c676fa9d-3a8e-476b-8cdd-5a9be93b4e0f">
+    <img src="https://wakatime.com/badge/user/c676fa9d-3a8e-476b-8cdd-5a9be93b4e0f.svg" alt="Total time coded" />
+  </a>
+  
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=CodderPrince&color=blue" alt="Profile Views" />
+</p>
+
+
+
+<!-- This is Salam Section
+1. Salam
+-->
+
+<p align="center">
+  
   <a href="https://github.com/CodderPrince">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=👋+Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
   </a>
 </p>
 
+
+
+
+<!-- This is Welcome Section
+2. Welcome
+-->
 <p align="center">
   <a href="https://github.com/CodderPrince">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to GitHub">
   </a>
 </p>
 
+<!-- This is Explore Section
+3. Explore
+-->
 <p align="center">
   <a href="https://github.com/CodderPrince">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Explore+my+Projects,+Skills,+and+Learning+Journey!" alt="Explore My Journey">
   </a>
 </p>
 
+<!-- 
+Image Section
+-->
 ![Competitive Programmer & Website Developer](https://i.imghippo.com/files/BUs5L1728644960.png)
 
+<!-- 
+Under Image Secction
+-->
 I am currently studying in **Computer Science and Engineering (CSE)** at **Begum Rokeya University, Rangpur**. I am a competitive programmer and now I am learning Website Development.
 
 ---
 
+<!-- 
+Achievements
+-->
 ### 🏆 Achievements:
 #### Dimik OJ
 <div align="center">
@@ -33,21 +70,32 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 
 ---
 
+<!-- 
 
+-->
 ### 🌟 Skills:
 
+<!-- 
+
+-->
 <p align="center">
   <a href="https://github.com/CodderPrince">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=800&lines=💻+Programming+Languages:+C, C%2B%2B,+Python,+Java,+Dart" alt="Programming Languages">
   </a>
 </p>
 
+<!-- 
+
+-->
 <p align="center">
   <a href="https://github.com/CodderPrince">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=28A745&width=800&lines=🌐+Web+Development:+HTML,+CSS,+JavaScript" alt="Web Development">
   </a>
 </p>
 
+<!-- 
+
+-->
 <p align="center">
   <a href="https://github.com/CodderPrince">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=007BFF&width=800&lines=🛠️+Frameworks+%26+Tools:+JavaFX,+Flutter+(learning)" alt="Frameworks and Tools">
@@ -56,16 +104,24 @@ I am currently studying in **Computer Science and Engineering (CSE)** at **Begum
 
 
 ---
+<!-- 
 
+-->
 ### 📊 GitHub Stats:
 <div align="center" style="font-size: xx-large;">
   <!-- Fixed height with overflow handling -->
   <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700" alt="🔥 GitHub Stats" width="700" style="height: 300px; object-fit: cover;"/>
   <br/>
-  
+
+  <!-- 
+
+-->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="700" style="height: 300px; object-fit: cover; border: 2px solid #FF4500;"/>
   <br/>
-  
+
+  <!-- 
+
+-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&layout=compact&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500" alt="🔥 Top Languages" width="900" style="height: 400px; object-fit: cover; border: 2px solid #FF4500;"/>
 </div>
 
