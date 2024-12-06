@@ -1,6 +1,7 @@
 
 
 
+
 <!-- This is Salam Section
 1. Salam
 -->
@@ -157,6 +158,14 @@ Achievements
 
 ---
 
+### 🏆 GitHub Profile Trophy
+<p align="left"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodderPrince&theme=flat&margin-w=10&margin-h=10" alt="CodderPrince"/></a> 
+</p>
+
+
+
+---
 ### Other Competitive Programming Platforms:
 
 - ⭐ **[Codeforces](https://codeforces.com/profile/Prince.001):** Competitive Programming Platform
