@@ -111,16 +111,19 @@ Achievements
 <!-- 
 
 -->
-### 📊 GitHub Stats:
+
+<h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">📊 GitHub Stats:</h2>
 <div align="center" style="font-size: xx-large;">
   <!-- Fixed height with overflow handling -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700" alt="🔥 GitHub Stats" width="700" style="height: 300px; object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700" alt="" width="1100" style="height: 400px; object-fit: cover;"/>
   <br/>
 
   <!-- 
 
 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="700" style="height: 300px; object-fit: cover; border: 2px solid #FF4500;"/>
+
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="900" style="height: 400px; object-fit: cover; border: 2px solid #FF4500;"/>
   <br/>
 
   <!-- 
@@ -172,7 +175,8 @@ Most Used Languages
 
 ---
 
-<h2 align="left">⏱️ WakaTime Stats:</h2>
+
+<h2 align="left">⏱️ WakaTime Status:</h2>
 
 <p align="center" style="font-size: 30px;">
   <a href="#">
@@ -424,11 +428,14 @@ Most Used Languages
 
 
 
-<h2 align="left">⚡ Fun Fact:</h2>
+
+<h2 align="left" style="font-size: 50px; color: #FF6347; font-weight: bold;">⚡ Fun Fact:</h2>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" style="width: 60%; height: auto; border-radius: 1555px;">
 </p>
+
+
 
 
 ---
