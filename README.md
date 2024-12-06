@@ -213,6 +213,8 @@ Most Used Languages
 
 <h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">Other Competitive Programming Platforms:</h2>
 
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;"> 🥇 <a href="https://dimikoj.com/profile/0gm8?hacker_30" style="text-decoration: none; color: #000;">DimikOJ</a> : 52 Problem-Solving Platforms</h3>
+
 <h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">⭐ <a href="https://codeforces.com/profile/Prince.001" style="text-decoration: none; color: #000;">Codeforces</a> : Competitive Programming Platform</h3>
 
 <h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💡<a href="https://leetcode.com/u/PRINCE_30/" style="text-decoration: none; color: #000;">LeetCode</a> : Coding Problems & Solutions</h3>
@@ -226,8 +228,6 @@ Most Used Languages
 <h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🧑‍🍳 <a href="https://codemama.io/?enroll=true" style="text-decoration: none; color: #000;">CodeMama</a> : Dart Programming Platform</h3>
 
 <h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🚀 <a href="https://www.hackerearth.com/@annahian44/" style="text-decoration: none; color: #000;">HackerEarth</a> : Coding Challenges & Competitions</h3>
-
-<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌟 <a href="https://lightoj.com/user/user-93l1ije" style="text-decoration: none; color: #000;">LightOJ</a> : Problem-Solving Practice</h3>
 
 <h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌐 <a href="https://vjudge.net/user/Prince_44" style="text-decoration: none; color: #000;">VJudge</a> : Online Judge Platform</h3>
 
