@@ -1,8 +1,21 @@
 
 
+<p align="center">
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdislamrakibul&theme=radical" alt="Rakib's GitHub Contribution"/>
+  </a>
+</p>
+
+<summary>⚡ Recent GitHub Activity</summary>
+<br/>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mdislamrakibul&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<br/>
 
 
-<!-- This is Salam Section
+
+
+<!-- 
+This is Salam Section
 1. Salam
 -->
 
@@ -16,7 +29,8 @@
 
 
 
-<!-- This is Welcome Section
+<!-- 
+This is Welcome Section
 2. Welcome
 -->
 <p align="center">
@@ -25,7 +39,8 @@
   </a>
 </p>
 
-<!-- This is Explore Section
+<!-- 
+This is Explore Section
 3. Explore
 -->
 <p align="center">
@@ -42,7 +57,14 @@ Image Section
 <!-- 
 Under Image Secction
 -->
-I am currently studying in **Computer Science and Engineering (CSE)** at **Begum Rokeya University, Rangpur**. I am a competitive programmer and now I am learning Website Development.
+<h2 style="text-align: justify;">
+  𝑰’𝒎 𝑷𝒓𝒊𝒏𝒄𝒆, 𝒂 𝒄𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓 𝒂𝒏𝒅 𝒘𝒆𝒃𝒔𝒊𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 (𝑪𝑺𝑬) 𝒂𝒕 𝑩𝒆𝒈𝒖𝒎 𝑹𝒐𝒌𝒆𝒚𝒂 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚, 𝑹𝒂𝒏𝒈𝒑𝒖𝒓. 
+  𝑰’𝒎 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒄𝒐𝒅𝒊𝒏𝒈 𝒂𝒏𝒅 𝒂𝒍𝒘𝒂𝒚𝒔 𝒆𝒂𝒈𝒆𝒓 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔. 
+  𝑹𝒊𝒈𝒉𝒕 𝒏𝒐𝒘, 𝑰’𝒎 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝑫𝒂𝒓𝒕, 𝑭𝒍𝒖𝒕𝒕𝒆𝒓, 𝒂𝒏𝒅 𝑱𝒂𝒗𝒂𝑭𝑿. 
+  𝑰’𝒎 𝒂𝒍𝒔𝒐 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒆𝒙𝒑𝒂𝒏𝒅𝒊𝒏𝒈 𝒎𝒚 𝒔𝒌𝒊𝒍𝒍 𝒔𝒆𝒕 𝒃𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 <strong>𝑾𝒆𝒃𝒔𝒊𝒕𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</strong>.
+</h2>
+
+
 
 ---
 
@@ -110,12 +132,14 @@ Achievements
   <br/>
 
   <!-- 
-
+Most Used Languages
 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&layout=compact&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500" alt="🔥 Top Languages" width="900" style="height: 400px; object-fit: cover; border: 2px solid #FF4500;"/>
-</div>
-
-
+ 
+<br/>
+<p align="center">
+  <a href="#"><img alt="CodderPrince's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&langs_count=20&layout=compact&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500" width="1300" height="500"/></a>
+</p>
+<br/>
 <hr> <!-- Line Before -->
 
 <hr> <!-- Line After -->
@@ -139,9 +163,10 @@ Achievements
 ### ⏳ Wakape Progress:
 <p align="center">
   <a href="https://wakatime.com/@f2271a6c-676c-428b-a051-d03c7aeba97c">
-    <img src="https://wakatime.com/badge/user/f2271a6c-676c-428b-a051-d03c7aeba97c.svg" alt="Total time coded" style="width: 400px; height: 100px;"/>
+    <img src="https://wakatime.com/badge/user/f2271a6c-676c-428b-a051-d03c7aeba97c.svg" alt="Total time coded" style="width: 500px; height: 130px;"/>
   </a>
 </p>
+
 
 ---
 
@@ -150,7 +175,7 @@ Achievements
 ### 🔢 Profile Views:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodderPrince&color=blue&style=for-the-badge" alt="Profile Views"
-    style="border-radius: 150%; height: 100px; width: 400px;">
+    style="border-radius: 150%; height: 130px; width: 500px;">
 </p>
 
 
