@@ -1,10 +1,9 @@
-
-
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdislamrakibul&theme=radical" alt="Rakib's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=radical" alt="GitHub Summary Card" style="margin-bottom: 20px;">
   </a>
 </p>
+
 
 <summary>⚡ Recent GitHub Activity</summary>
 <br/>
@@ -191,6 +190,12 @@ Most Used Languages
 
 
 ---
+
+
+
+
+
+
 ### Other Competitive Programming Platforms:
 
 - ⭐ **[Codeforces](https://codeforces.com/profile/Prince.001):** Competitive Programming Platform
@@ -200,6 +205,9 @@ Most Used Languages
 - 🌟 **[LightOJ](https://lightoj.com/user/user-93l1ije):** Problem-Solving Practice
 
 ---
+
+
+
 ### 🌟 Connect with Me:
 
 <p align="left">
