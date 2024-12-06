@@ -1,17 +1,34 @@
-## ⏱️ WakaTime Stats
+<h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">Other Competitive Programming Platforms:</h2>
 
- <p align="center">
-  <a href="https://wakatime.com/@PRINCE_14">
-    <img align="center" src="https://wakatime.com/badge/user/PRINCE_14.svg" alt="Total time coded" style="width: 500px; height: 130px;" />
-  </a>
-</p>
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">⭐ <a href="https://codeforces.com/profile/Prince.001" style="text-decoration: none; color: #000;">Codeforces</a> : Competitive Programming Platform</h3>
 
-   
- 
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💡<a href="https://leetcode.com/u/PRINCE_30/" style="text-decoration: none; color: #000;">LeetCode</a> : Coding Problems & Solutions</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🐝 <a href="https://judge.beecrowd.com/en/profile/814166" style="text-decoration: none; color: #000;">Beecrowd</a> : Programming Challenges</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🍴 <a href="https://www.codechef.com/users/annahian44" style="text-decoration: none; color: #000;">CodeChef</a> : Competitive Coding Contests</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌟 <a href="https://lightoj.com/user/user-93l1ije" style="text-decoration: none; color: #000;">LightOJ</a> : Problem-Solving Practice</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🧑‍🍳 <a href="https://codemama.io/?enroll=true" style="text-decoration: none; color: #000;">CodeMama</a> : Dart Programming Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🚀 <a href="https://www.hackerearth.com/@annahian44/" style="text-decoration: none; color: #000;">HackerEarth</a> : Coding Challenges & Competitions</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌟 <a href="https://lightoj.com/user/user-93l1ije" style="text-decoration: none; color: #000;">LightOJ</a> : Problem-Solving Practice</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌐 <a href="https://vjudge.net/user/Prince_44" style="text-decoration: none; color: #000;">VJudge</a> : Online Judge Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💻 <a href="https://atcoder.jp/users/PRINCE_14" style="text-decoration: none; color: #000;">AtCoder</a> : Competitive Programming Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌐 <a href="https://bapsoj.org/" style="text-decoration: none; color: #000;">BAPSOJ</a> : Online Judge Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🎯 <a href="https://cses.fi/user/194703" style="text-decoration: none; color: #000;">CSES Problem Set</a> : Problem-Solving Platform</h3>
+
+<h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">💻 <a href="https://www.hackerrank.com/profile/annahian44" style="text-decoration: none; color: #000;">HackerRank</a> : Coding Challenges & Competitions</h3>
 
 
 
-
+---
 <!-- 
 This is Salam Section
 1. Salam
@@ -178,10 +195,21 @@ Most Used Languages
 
 ---
 
+<h2 align="left">⏱️ WakaTime Stats:</h2>
+
+<p align="center" style="font-size: 30px;">
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=PRINCE_14&layout=compact&theme=radical" width="800" height="220" />
+  </a>
+</p>
+
+
+---
 
 
 
-### 🔢 Profile Views:
+<h2 align="left">🔢 Profile Views:</h2>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodderPrince&color=blue&style=for-the-badge" alt="Profile Views"
     style="border-radius: 150%; height: 130px; width: 500px;">
@@ -192,7 +220,9 @@ Most Used Languages
 
 ---
 
-### 🏆 GitHub Profile Trophy
+
+<h2 align="left">🏆 GitHub Profile Trophy:</h2>
+
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodderPrince&theme=flat&margin-w=10&margin-h=10" alt="CodderPrince"/></a> 
 </p>
@@ -204,11 +234,9 @@ Most Used Languages
 
 
 
+<h2 align="left">Other Competitive Programming Platforms:</h2>
 
-
-### Other Competitive Programming Platforms:
-
-- ⭐ **[Codeforces](https://codeforces.com/profile/Prince.001):** Competitive Programming Platform
+<h3 align="left">⭐ [Codeforces](https://codeforces.com/profile/Prince.001):** Competitive Programming Platform</h3>
 - 💡 **[LeetCode](https://leetcode.com/u/PRINCE_30/):** Coding Problems & Solutions
 - 🐝 **[Beecrowd](https://judge.beecrowd.com/en/profile/814166):** Programming Challenges
 - 🍴 **[CodeChef](https://www.codechef.com/users/annahian44):** Competitive Coding Contests
