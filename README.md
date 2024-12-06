@@ -1,14 +1,13 @@
-<p align="center">
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=radical" alt="GitHub Summary Card" style="margin-bottom: 20px;">
+## ⏱️ WakaTime Stats
+
+ <p align="center">
+  <a href="https://wakatime.com/@PRINCE_14">
+    <img align="center" src="https://wakatime.com/badge/user/PRINCE_14.svg" alt="Total time coded" style="width: 500px; height: 130px;" />
   </a>
 </p>
 
-
-<summary>⚡ Recent GitHub Activity</summary>
-<br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mdislamrakibul&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<br/>
+   
+ 
 
 
 
@@ -26,8 +25,6 @@ This is Salam Section
 </p>
 
 
-
-
 <!-- 
 This is Welcome Section
 2. Welcome
@@ -37,6 +34,7 @@ This is Welcome Section
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to GitHub">
   </a>
 </p>
+
 
 <!-- 
 This is Explore Section
@@ -52,6 +50,7 @@ This is Explore Section
 Image Section
 -->
 ![Competitive Programmer & Website Developer](https://i.imghippo.com/files/BUs5L1728644960.png)
+
 
 <!-- 
 Under Image Secction
@@ -141,6 +140,14 @@ Most Used Languages
 <br/>
 <hr> <!-- Line Before -->
 
+
+<!-- GitHub Contribution Activity with Custom Font Size for Text -->
+<p align="center">
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodderPrince&langs_count=20&theme=radical" alt="Pie Chart" style="width: 1000px; height: 450px;">
+  </a>
+</p>
+
 <hr> <!-- Line After -->
 
 
@@ -158,16 +165,19 @@ Most Used Languages
 
 <hr> <!-- Line After -->
 
+
+
 ---
-### ⏳ Wakape Progress:
+<h2 align="left">⏳ Wakape Progress:</h2>
+
 <p align="center">
   <a href="https://wakatime.com/@f2271a6c-676c-428b-a051-d03c7aeba97c">
     <img src="https://wakatime.com/badge/user/f2271a6c-676c-428b-a051-d03c7aeba97c.svg" alt="Total time coded" style="width: 500px; height: 130px;"/>
   </a>
 </p>
 
-
 ---
+
 
 
 
