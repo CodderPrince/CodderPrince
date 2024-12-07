@@ -17,7 +17,7 @@ This is Salam Section
 <p align="center">
   
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=👋+Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=8000&color=FFA500&center=true&vCenter=true&width=1000&lines=👋+Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
   </a>
 </p>
 
@@ -28,7 +28,7 @@ This is Welcome Section
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to GitHub">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=8000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to GitHub">
   </a>
 </p>
 
@@ -39,7 +39,7 @@ This is Explore Section
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=87CEEB&center=true&vCenter=true&width=1000&lines=Explore+my+Projects,+Skills,+and+Learning+Journey!" alt="Explore My Journey">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=8000&color=87CEEB&center=true&vCenter=true&width=1000&lines=Explore+my+Projects,+Skills,+and+Learning+Journey!" alt="Explore My Journey">
   </a>
 </p>
 
@@ -94,7 +94,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=900&lines=💻+Programming+Languages:+C, C%2B%2B,+Python,+Java,+Dart,+Kotlin" alt="Programming Languages">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=4000&color=FF5733&width=900&lines=💻+Programming+Languages:+C, C%2B%2B,+Python,+Java,+Dart,+Kotlin" alt="Programming Languages">
   </a>
 </p>
 
@@ -103,7 +103,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=90EE90&width=900&lines=     🌐+ Web+Development:+HTML,+CSS,+JavaScript+React+TypeScript" alt="Web Development">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=4000&color=90EE90&width=900&lines=     🌐+ Web+Development:+HTML,+CSS,+JavaScript+React+TypeScript" alt="Web Development">
   </a>
 </p>
 
@@ -112,7 +112,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFF00&width=900&lines=🛠️+Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=4000&color=FFFF00&width=900&lines=🛠️+Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
   </a>
 </p>
 
