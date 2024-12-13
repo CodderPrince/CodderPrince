@@ -188,9 +188,9 @@ Most Used Languages
 
 <h2 align="left">⏱️ WakaTime Status:</h2>
 
-<p align="center" style="font-size: 30px;">
+<p align="center" style="font-size: 40px;">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=PRINCE_14&layout=compact&theme=radical" width="800" height="220" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=PRINCE_14&layout=compact&theme=radical" width="1000" height="420" />
   </a>
 </p>
 
