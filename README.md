@@ -1,3 +1,10 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CodderPrince&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 <!--   
 Copyright Notice
 This README.md file is the intellectual property of @Prince. All rights to this content are reserved.
