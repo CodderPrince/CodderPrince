@@ -425,15 +425,13 @@ Most Used Languages
 <h2 align="left" style="font-size: 30px; color: #FF6347;">⚙️ Fun Widgets:</h2>
 <div align="center">
     <!-- GitHub Summary Card with adjusted width and height -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=radical" alt="GitHub Summary Card" style="margin-bottom: 20px; width: 90%; height: auto; border-radius: 15px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=radical" alt="GitHub Summary Card" style="margin-bottom: 20px; width: 100%; height: auto; border-radius: 15px;">
     <br/>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodderPrince&bg_color=2e1542&color=fbff00&line=00ffe1&point=ff00ae&area=true&hide_border=true&theme=dark" 
      alt="GitHub Activity Graph" 
-     style="max-width: 100%; height: 800px; border-radius: 50px;">
+     style="max-width: 100%; height: auto; border-radius: 50px;">
 
-
-
-
+ 
 ---
 
 <h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">My Other's Competitive Programming Platforms:</h2>
