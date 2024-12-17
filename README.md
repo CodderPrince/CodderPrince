@@ -1,10 +1,4 @@
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&random=${Math.random()})
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CodderPrince&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <!--   
@@ -165,6 +159,15 @@ Most Used Languages
 </p>
 
 <hr> <!-- Line After -->
+
+
+<h2 align="left" style="color: yellow;">🔝 Top Contributed Repo:</h2>
+<img src="https://github-contributor-stats.vercel.app/api?username=CodderPrince&limit=5&theme=radical&combine_all_yearly_contributions=true" 
+     alt="GitHub Contributor Stats" 
+     style="width: 600px; height: 400px; object-fit: cover;">
+
+
+---
 
 
 <p align="center">
