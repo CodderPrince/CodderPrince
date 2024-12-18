@@ -488,12 +488,34 @@ Most Used Languages
 <h3 align="left" style="padding-left: 40px; padding-bottom: 8px;">🌐 <a href="https://toph.co/u/Prince14" style="text-decoration: none; color: #000;">Toph</a> : Programming Challenges</h3>
 
 ---
+---
+
+<!-- Single Line Animation -->
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=100000&color=FF5733&vCenter=true&width=1000&lines=🐍+Watch+the+Contribution+Snake+in+Action!" 
+         alt="Contribution Snake Header">
+  </a>
+</p>
+
+<!-- Combined Animation for Other Lines -->
+<p align="center">
+  <a href="https://github.com/CodderPrince">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&vCenter=true&width=1000&lines=Life's+all+about+progress,+and+so+are+your+contributions!;Here's+a+fun+way+to+see+how+far+I've+come.;Watch+the+snake+glide+through+my+GitHub+activity+grid+👉" 
+         alt="Progress Animation">
+  </a>
+</p>
+
+<!-- Snake Animation (Dark Mode Only) -->
+<p align="center">
+    <img src="https://github.com/CodderPrince/CodderPrince/blob/output/github-contribution-grid-snake-dark.svg" 
+         alt="GitHub Snake Animation Dark Mode" style="margin: 10px;">
+</p>
 
 
 
 
-
-
+---
 ---
 
 <h1 align="center" style="font-size: 30px; color: #FF6347;">🛠️ Tools I’ve Learned & Plan to Explore [Learning Progress]</h1>
