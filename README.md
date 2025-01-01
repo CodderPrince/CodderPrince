@@ -630,9 +630,7 @@ Most Used Languages
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acircleci">
     <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI%20-%23000000.svg?logo=circleci&logoColor=white" style="width: 180px; height: auto;">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajenkins">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins%20-%23D24939.svg?logo=jenkins&logoColor=white" style="width: 180px; height: auto;">
-  </a>
+  
 </p>
 
 
@@ -647,6 +645,9 @@ Most Used Languages
 <h2 align="left" style="font-size: 30px; color: #FF6347;">Mobile Development</h2>
  
 <p>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adart">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%230175C7.svg?logo=dart&logoColor=white" width="150" height="75">
+  </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflutter">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23025691.svg?logo=flutter&logoColor=white" style="width: 180px; height: auto;">
   </a>
