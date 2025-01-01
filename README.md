@@ -535,6 +535,9 @@ Most Used Languages
 	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adart">
     <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%230175C7.svg?logo=dart&logoColor=white" width="150" height="75">
   </a>
+	 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agolang">
+    <img alt="Go" src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?logo=go&logoColor=white" width="150" height="75">
+  </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml">
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" width="150" height="75">
   </a>
@@ -544,36 +547,38 @@ Most Used Languages
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=white" width="150" height="75">
   </a>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akotlin">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%230095D5.svg?logo=kotlin&logoColor=white" width="150" height="75">
+  </a>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?logo=php&logoColor=white" width="150" height="75">
+  </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%233B8EB9.svg?logo=python&logoColor=white" width="150" height="75">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?logo=php&logoColor=white" width="150" height="75">
+	 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ar">
+    <img alt="R" src="https://img.shields.io/badge/R%20-%23276DC3.svg?logo=r&logoColor=white" width="150" height="75">
   </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aruby">
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%23CC342D.svg?logo=ruby&logoColor=white" width="150" height="75">
   </a>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Arust">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23E57324.svg?logo=rust&logoColor=white" width="150" height="75">
+  </a>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300A5DB.svg?logo=sql&logoColor=white" width="150" height="75">
+  </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aswift">
     <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%23F05138.svg?logo=swift&logoColor=white" width="150" height="75">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agolang">
-    <img alt="Go" src="https://img.shields.io/badge/Go%20-%2300ADD8.svg?logo=go&logoColor=white" width="150" height="75">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akotlin">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%230095D5.svg?logo=kotlin&logoColor=white" width="150" height="75">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ar">
-    <img alt="R" src="https://img.shields.io/badge/R%20-%23276DC3.svg?logo=r&logoColor=white" width="150" height="75">
-  </a>
+ 
+  
+ 
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atypescript">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white" width="150" height="75">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300A5DB.svg?logo=sql&logoColor=white" width="150" height="75">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Arust">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23E57324.svg?logo=rust&logoColor=white" width="150" height="75">
-  </a>
+  
+  
   
 </p>
 
@@ -581,36 +586,37 @@ Most Used Languages
 <h2 align="left" style="font-size: 30px; color: #FF6347;">Frameworks & Libraries</h2>
 
 <p>
+	 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aangular">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23333C4A.svg?logo=angular&logoColor=white" style="width: 150px; height: auto;">
+  </a>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abootstrap">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?logo=bootstrap&logoColor=white" style="width: 150px; height: auto;">
+  </a>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adjango">
+    <img alt="Django" src="https://img.shields.io/badge/Django%20-%23092E20.svg?logo=django&logoColor=white" style="width: 150px; height: auto;">
+  </a>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aexpressjs">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23FFF.svg?logo=express&logoColor=black" style="width: 150px; height: auto;">
+  </a>
+	 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflask">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?logo=flask&logoColor=white" style="width: 150px; height: auto;">
+  </a>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Alaravel">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%2327A1C5.svg?logo=laravel&logoColor=white" style="width: 150px; height: auto;">
+  </a>
+	 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Anodejs">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white" style="width: 150px; height: auto;">
+  </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areact">
     <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=61DAFB" style="width: 150px; height: auto;">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Avuejs">
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?logo=vue.js&logoColor=white" style="width: 150px; height: auto;">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aangular">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23333C4A.svg?logo=angular&logoColor=white" style="width: 150px; height: auto;">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Anodejs">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white" style="width: 150px; height: auto;">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aexpressjs">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23FFF.svg?logo=express&logoColor=black" style="width: 150px; height: auto;">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adjango">
-    <img alt="Django" src="https://img.shields.io/badge/Django%20-%23092E20.svg?logo=django&logoColor=white" style="width: 150px; height: auto;">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflask">
-    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000000.svg?logo=flask&logoColor=white" style="width: 150px; height: auto;">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Alaravel">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%2327A1C5.svg?logo=laravel&logoColor=white" style="width: 150px; height: auto;">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abootstrap">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?logo=bootstrap&logoColor=white" style="width: 150px; height: auto;">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asass">
+	 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asass">
     <img alt="Sass" src="https://img.shields.io/badge/Sass%20-%23CF649A.svg?logo=sass&logoColor=white" style="width: 150px; height: auto;">
   </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Avuejs">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?logo=vue.js&logoColor=white" style="width: 150px; height: auto;">
+  </a> 
+ 
 </p>
 
 ---
@@ -618,6 +624,9 @@ Most Used Languages
 
 <h2 align="left" style="font-size: 30px; color: #FF6347;">DevOps & Version Control</h2>
 <p>
+	 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acircleci">
+    <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI%20-%23000000.svg?logo=circleci&logoColor=white" style="width: 180px; height: auto;">
+  </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adocker">
     <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%232496ED.svg?logo=docker&logoColor=white" style="width: 180px; height: auto;">
   </a>
@@ -627,9 +636,7 @@ Most Used Languages
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Agithub">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?logo=github&logoColor=white" style="width: 180px; height: auto;">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acircleci">
-    <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI%20-%23000000.svg?logo=circleci&logoColor=white" style="width: 180px; height: auto;">
-  </a>
+ 
   
 </p>
 
@@ -645,24 +652,24 @@ Most Used Languages
 <h2 align="left" style="font-size: 30px; color: #FF6347;">Mobile Development</h2>
  
 <p>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aandroid">
+    <img alt="Android" src="https://img.shields.io/badge/Android%20-%233DDC84.svg?logo=android&logoColor=white" style="width: 180px; height: auto;">
+  </a>
 	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adart">
     <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%230175C7.svg?logo=dart&logoColor=white" width="150" height="75">
   </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aflutter">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23025691.svg?logo=flutter&logoColor=white" style="width: 180px; height: auto;">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areactnative">
-    <img alt="React Native" src="https://img.shields.io/badge/React%20Native%20-%2320232a.svg?logo=react&logoColor=61DAFB" style="width: 180px; height: auto;">
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akotlin">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%230095D5.svg?logo=kotlin&logoColor=white" style="width: 180px; height: auto;">
   </a>
+  
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aswift">
     <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%23F05138.svg?logo=swift&logoColor=white" style="width: 180px; height: auto;">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akotlin">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%230095D5.svg?logo=kotlin&logoColor=white" style="width: 180px; height: auto;">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aandroid">
-    <img alt="Android" src="https://img.shields.io/badge/Android%20-%233DDC84.svg?logo=android&logoColor=white" style="width: 180px; height: auto;">
-  </a>
+  
+  
 </p>
 
 
@@ -672,14 +679,21 @@ Most Used Languages
 <h2 align="left" style="font-size: 30px; color: #FF6347;">Web Development</h2>
 
 <p>
+	 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aangular">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23333C4A.svg?logo=angular&logoColor=white" style="width: 180px; height: auto;">
+  </a>
+	<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" style="width: 180px; height: auto;">
+  </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml">
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" style="width: 180px; height: auto;">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" style="width: 180px; height: auto;">
-  </a>
+  
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=white" style="width: 180px; height: auto;">
+  </a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amongodb">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?logo=mongodb&logoColor=white" style="width: 150px; height: auto;">
   </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areact">
     <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=61DAFB" style="width: 180px; height: auto;">
@@ -687,12 +701,8 @@ Most Used Languages
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Avuejs">
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?logo=vue.js&logoColor=white" style="width: 180px; height: auto;">
   </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aangular">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23333C4A.svg?logo=angular&logoColor=white" style="width: 180px; height: auto;">
-  </a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amongodb">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?logo=mongodb&logoColor=white" style="width: 150px; height: auto;">
-  </a>
+ 
+  
 </p>
 
 
