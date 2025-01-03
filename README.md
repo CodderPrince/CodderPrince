@@ -144,7 +144,7 @@ Most Used Languages
  
 <br/>
 <p align="center">
-  <a href="#"><img alt="CodderPrince's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&langs_count=20&layout=compact&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500" width="1300" height="500"/></a>
+  <a href="#"><img alt="CodderPrince's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&langs_count=30&layout=compact&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500" width="1300" height="500"/></a>
 </p>
 <br/>
 <hr> <!-- Line Before -->
@@ -153,7 +153,7 @@ Most Used Languages
 <!-- GitHub Contribution Activity with Custom Font Size for Text -->
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodderPrince&langs_count=20&theme=radical" alt="Pie Chart" style="width: 1000px; height: 450px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodderPrince&langs_count=30&theme=radical" alt="Pie Chart" style="width: 1000px; height: 450px;">
   </a>
 </p>
 
