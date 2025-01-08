@@ -201,7 +201,7 @@ Most Used Languages
 
 <p align="center" style="font-size: 40px;">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=PRINCE_14&layout=compact&theme=radical" width="1000" height="420" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CodderPrince&layout=compact&theme=radical" width="1000" height="420" />
   </a>
 </p>
 
