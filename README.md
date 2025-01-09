@@ -419,7 +419,16 @@ Most Used Languages
 
 
 
+
+
+
+
 ---
+
+
+
+
+
 <h2 align="left">🎨 About Me:</h2>
 
 <div align="center" style="line-height: 3;">
@@ -430,7 +439,13 @@ Most Used Languages
 
 
 
+
+
 ---
+
+
+
+
 
 
 <h2 align="left" style="font-size: 30px; color: #FF6347;">⚙️ Fun Widgets:</h2>
