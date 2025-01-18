@@ -50,7 +50,7 @@ Image Section
 -->
 
 
-![Competitive Programmer & Website Developer](https://i.imghippo.com/files/BUs5L1728644960.png)
+![Competitive Programmer & Website Developer](https://github.com/CodderPrince/CodderPrince/blob/main/GithubCover.png)
 
 
 
