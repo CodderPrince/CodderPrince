@@ -156,7 +156,7 @@ Most Used Languages
 <!-- GitHub Contribution Activity with Custom Font Size for Text -->
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodderPrince&langs_count=30&theme=radical" alt="Pie Chart" style="width: 1000px; height: 450px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodderPrince&langs_count=40&theme=radical" alt="Pie Chart" style="width: 1000px; height: 450px;">
   </a>
 </p>
 
