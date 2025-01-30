@@ -523,7 +523,7 @@ Most Used Languages
 <!-- Combined Animation for Other Lines -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&vCenter=true&width=10000&lines=Life's+all+about+progress,+and+so+are+your+contributions!;Here's+a+fun+way+to+see+how+far+I've+come.;Watch+the+snake+glide+through+my+GitHub+activity+grid+👉" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&vCenter=true&width=1000&lines=Life's+all+about+progress,+and+so+are+your+contributions!;Here's+a+fun+way+to+see+how+far+I've+come.;Watch+the+snake+glide+through+my+GitHub+activity+grid+👉" 
          alt="Progress Animation">
   </a>
 </p>
