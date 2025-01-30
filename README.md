@@ -180,7 +180,7 @@ Most Used Languages
 
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Website+Developer;" alt="Website Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Flutter+Developer;" alt="Flutter Developer">
   </a>
 </p>
 
