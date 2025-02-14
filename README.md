@@ -174,13 +174,13 @@ Most Used Languages
 
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=2000&color=FFA500&center=true&vCenter=true&width=1000&lines=Competitive+Programmer;" alt="Competitive Programmer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=5000&color=FFA500&center=true&vCenter=true&width=1000&lines=Competitive+Programmer;" alt="Competitive Programmer">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=2000&color=00FF00&center=true&vCenter=true&width=1000&lines=Flutter+Developer;" alt="Flutter Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=5000&color=00FF00&center=true&vCenter=true&width=1000&lines=Flutter+Developer;" alt="Flutter Developer">
   </a>
 </p>
 
