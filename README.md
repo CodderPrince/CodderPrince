@@ -1,4 +1,4 @@
-        
+
   
 <!--   
 Copyright Notice
@@ -75,7 +75,7 @@ Achievements
 #### Dimik OJ
 <div align="center">
   <a href="https://dimikoj.com/profile/0gm8?hacker_30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Ranked+1+on+Dimik+OJ!;🏆+Top+Competitive+Coder!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=🥇Ranked+1+on+Dimik+OJ!;🏆+Top+Competitive+Coder!">
   </a>
 </div>
 
@@ -154,11 +154,21 @@ Most Used Languages
 
 
 <!-- GitHub Contribution Activity with Custom Font Size for Text -->
-<p align="center">
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodderPrince&langs_count=40&theme=radical" alt="Pie Chart" style="width: 1000px; height: 450px;">
-  </a>
-</p>
+<div>
+<a href="http://www.github.com/CodderPrince">
+    <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodderPrince&theme=blue_green" />
+</a>
+<a href="http://www.github.com/CodderPrince">
+    <img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodderPrince&theme=blue_green" />
+</a>
+<a href="http://www.github.com/CodderPrince">
+    <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodderPrince&theme=blue_green" />
+</a>
+<a href="http://www.github.com/CodderPrince">
+    <img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodderPrince&theme=blue_green&utcOffset=8" />
+</a>
+</div>
+
 
 <hr> <!-- Line After -->
 
