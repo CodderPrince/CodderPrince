@@ -17,7 +17,7 @@ This is Salam Section
 -->
 
 <p align="center">
-  
+   
   <a href="https://github.com/CodderPrince">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=8000&color=FFA500&center=true&vCenter=true&width=1000&lines=👋+Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
   </a>
