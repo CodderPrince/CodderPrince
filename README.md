@@ -98,7 +98,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FF5733&width=900&lines=Programming+Languages:+C, C%2B%2B,+Python,+Java,+Dart,+Kotlin" alt="Programming Languages">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FF5733&width=900&lines=Programming+Languages:+C,C%2B%2B,+Python,+Java,+Dart,+Kotlin" alt="Programming Languages">
   </a>
 </p>
 
@@ -107,7 +107,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=90EE90&width=900&lines=     Web+Development:+HTML,+CSS,+JavaScript+React+TypeScript" alt="Web Development">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=90EE90&width=900&lines=Web+Development:+HTML,+CSS,+JavaScript+React+TypeScript" alt="Web Development">
   </a>
 </p>
 
@@ -259,13 +259,13 @@ Most Used Languages
 
 <p align="left">
   <a href="mailto:cse12105007brur@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=7000&color=FFA500&width=800&lines=📧+Gmail:+cse12105007brur@gmail.com" alt="Gmail">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=7000&color=FFA500&width=800&lines=Gmail:+cse12105007brur@gmail.com" alt="Gmail">
   </a>
 </p>
 
 <p align="left">
   <a href="https://codeforces.com/profile/Prince.001">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=7000&color=00FF00&width=800&lines=💻+Codeforces:+Prince.001" alt="Codeforces">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=7000&color=00FF00&width=800&lines=Codeforces:+Prince.001" alt="Codeforces">
   </a>
 </p>
 
@@ -294,25 +294,25 @@ Most Used Languages
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FF4500&width=800&lines=🔥+Dart+(programming+language+for+Flutter+and+backend)" alt="Dart Learning">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FF4500&width=800&lines=Dart+(programming+language+for+Flutter+and+backend)" alt="Dart Learning">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=00FF00&width=800&lines=📱+Flutter+(building+cross-platform+mobile+apps)" alt="Flutter Learning">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=00FF00&width=800&lines=Flutter+(building+cross-platform+mobile+apps)" alt="Flutter Learning">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=1E90FF&width=800&lines=💻+JavaFX+(for+Java+desktop+GUI+applications)" alt="JavaFX Learning">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=1E90FF&width=800&lines=JavaFX+(for+Java+desktop+GUI+applications)" alt="JavaFX Learning">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FFD700&width=800&lines=🌐+JavaScript+(for+web+development)" alt="JavaScript Learning">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FFD700&width=800&lines=JavaScript+(for+web+development)" alt="JavaScript Learning">
   </a>
 </p>
 
@@ -444,12 +444,13 @@ Most Used Languages
 
 
 
+<!-- 
 
 <h2 align="left">🎨 About Me:</h2>
 
 <div align="center" style="line-height: 3;">
     <a href="https://github.com/CodderPrince">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=7000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=800&lines=Ask+me+about+coding+and+technology related question!" style="display: block; padding-bottom: 20px;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=7000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=800&lines=Ask+me+about+coding+and+technologyrelated question!" style="display: block; padding-bottom: 20px;">
     </a>
 </div>
 
@@ -457,8 +458,9 @@ Most Used Languages
 
 
 
----
 
+---
+-->
 
 
 
@@ -524,7 +526,7 @@ Most Used Languages
 <!-- Single Line Animation -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=100000&color=FF5733&vCenter=true&width=1000&lines=🐍+Watch+the+Contribution+Snake+in+Action!" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=100000&color=FF5733&vCenter=true&width=1000&lines=Watch+the+Contribution+Snake+in+Action!" 
          alt="Contribution Snake Header">
   </a>
 </p>
@@ -532,7 +534,7 @@ Most Used Languages
 <!-- Combined Animation for Other Lines -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&vCenter=true&width=1000&lines=Life's+all+about+progress,+and+so+are+your+contributions!;Here's+a+fun+way+to+see+how+far+I've+come.;Watch+the+snake+glide+through+my+GitHub+activity+grid+👉" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&vCenter=true&width=1000&lines=Life's+all+about+progress,+and+so+are+your+contributions!;Here's+a+fun+way+to+see+how+far+I've+come.;Watch+the+snake+glide+through+my+GitHub+activity+grid" 
          alt="Progress Animation">
   </a>
 </p>
