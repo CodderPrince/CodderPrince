@@ -19,10 +19,9 @@ This is Salam Section
 <p align="center">
    
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=8000&color=FFA500&center=true&vCenter=true&width=1000&lines=👋+Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=8000&color=FFA500&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
   </a>
 </p>
-
 
 <!-- 
 This is Welcome Section
@@ -75,7 +74,7 @@ Achievements
 #### Dimik OJ
 <div align="center">
   <a href="https://dimikoj.com/profile/0gm8?hacker_30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=🥇Ranked+1+on+Dimik+OJ!;🏆+Top+Competitive+Coder!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Ranked+1+on+Dimik+OJ!;Top+Competitive+Coder!">
   </a>
 </div>
 
@@ -99,7 +98,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FF5733&width=900&lines=💻+Programming+Languages:+C, C%2B%2B,+Python,+Java,+Dart,+Kotlin" alt="Programming Languages">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FF5733&width=900&lines=Programming+Languages:+C, C%2B%2B,+Python,+Java,+Dart,+Kotlin" alt="Programming Languages">
   </a>
 </p>
 
@@ -108,7 +107,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=90EE90&width=900&lines=     🌐+ Web+Development:+HTML,+CSS,+JavaScript+React+TypeScript" alt="Web Development">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=90EE90&width=900&lines=     Web+Development:+HTML,+CSS,+JavaScript+React+TypeScript" alt="Web Development">
   </a>
 </p>
 
@@ -117,7 +116,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FFFF00&width=900&lines=🛠️+Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FFFF00&width=900&lines=Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
   </a>
 </p>
 
