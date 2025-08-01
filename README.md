@@ -131,6 +131,7 @@ Achievements
   <!-- Fixed height with overflow handling -->
   <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700" alt="" width="1100" style="height: 400px; object-fit: cover;"/>
   <br/>
+	
 ---
 
 
