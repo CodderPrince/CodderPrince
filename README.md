@@ -122,7 +122,7 @@ Achievements
 
 
 ---
-<!-- 
+
 
 
 
@@ -131,8 +131,9 @@ Achievements
   <!-- Fixed height with overflow handling -->
   <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700" alt="" width="1100" style="height: 400px; object-fit: cover;"/>
   <br/>
+---
 
--->
+
   <!-- 
 
 -->
@@ -142,10 +143,13 @@ Achievements
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="900" style="height: 400px; object-fit: cover; border: 2px solid #FF4500;"/>
   <br/>
 
+
+
+
+  ---
   
-Most Used Languages
--->
- 
+
+ <h2 align="left" style="color: yellow;">🧑‍💻Most Used Languages:</h2>
 <br/>
 <p align="center">
   <a href="#"><img alt="CodderPrince's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodderPrince&langs_count=30&layout=compact&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500" width="1300" height="500"/></a>
