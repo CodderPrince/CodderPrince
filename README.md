@@ -19,7 +19,7 @@ This is Salam Section
 <p align="center">
    
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=8000&color=FFA500&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=18000&color=FFA500&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
   </a>
 </p>
 
@@ -29,7 +29,7 @@ This is Welcome Section
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=8000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to GitHub">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=18000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to GitHub">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ This is Explore Section
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=8000&color=87CEEB&center=true&vCenter=true&width=1000&lines=Explore+my+Projects,+Skills,+and+Learning+Journey!" alt="Explore My Journey">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=18000&color=87CEEB&center=true&vCenter=true&width=1000&lines=Explore+my+Projects,+Skills,+and+Learning+Journey!" alt="Explore My Journey">
   </a>
 </p>
 
@@ -74,7 +74,7 @@ Achievements
 #### Dimik OJ
 <div align="center">
   <a href="https://dimikoj.com/profile/0gm8?hacker_30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Ranked+1+on+Dimik+OJ!;Top+Competitive+Coder!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=5000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Ranked+1+on+Dimik+OJ!;Top+Competitive+Coder!">
   </a>
 </div>
 
@@ -98,7 +98,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FF5733&width=900&lines=Programming+Languages:+C,C%2B%2B,+Python,+Java,+Dart,+Kotlin" alt="Programming Languages">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=FF5733&width=900&lines=Programming+Languages:+C,C%2B%2B,+Python,+Java,+Dart,+Kotlin" alt="Programming Languages">
   </a>
 </p>
 
@@ -107,7 +107,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=90EE90&width=900&lines=Web+Development:+HTML,+CSS,+JavaScript+React+TypeScript" alt="Web Development">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=90EE90&width=900&lines=Web+Development:+HTML,+CSS,+JavaScript+React+TypeScript" alt="Web Development">
   </a>
 </p>
 
@@ -116,7 +116,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FFFF00&width=900&lines=Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=FFFF00&width=900&lines=Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
   </a>
 </p>
 
@@ -190,13 +190,13 @@ Achievements
 
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=5000&color=FFA500&center=true&vCenter=true&width=1000&lines=Competitive+Programmer;" alt="Competitive Programmer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=15000&color=FFA500&center=true&vCenter=true&width=1000&lines=Competitive+Programmer;" alt="Competitive Programmer">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=5000&color=00FF00&center=true&vCenter=true&width=1000&lines=Flutter+Developer;" alt="Flutter Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=15000&color=00FF00&center=true&vCenter=true&width=1000&lines=Flutter+Developer;" alt="Flutter Developer">
   </a>
 </p>
 
@@ -266,13 +266,13 @@ Achievements
 
 <p align="left">
   <a href="mailto:cse12105007brur@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=7000&color=FFA500&width=800&lines=Gmail:+cse12105007brur@gmail.com" alt="Gmail">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=17000&color=FFA500&width=800&lines=Gmail:+cse12105007brur@gmail.com" alt="Gmail">
   </a>
 </p>
 
 <p align="left">
   <a href="https://codeforces.com/profile/Prince.001">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=7000&color=00FF00&width=800&lines=Codeforces:+Prince.001" alt="Codeforces">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=17000&color=00FF00&width=800&lines=Codeforces:+Prince.001" alt="Codeforces">
   </a>
 </p>
 
@@ -301,25 +301,25 @@ Achievements
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FF4500&width=800&lines=Dart+(programming+language+for+Flutter+and+backend)" alt="Dart Learning">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=FF4500&width=800&lines=Dart+(programming+language+for+Flutter+and+backend)" alt="Dart Learning">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=00FF00&width=800&lines=Flutter+(building+cross-platform+mobile+apps)" alt="Flutter Learning">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=00FF00&width=800&lines=Flutter+(building+cross-platform+mobile+apps)" alt="Flutter Learning">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=1E90FF&width=800&lines=JavaFX+(for+Java+desktop+GUI+applications)" alt="JavaFX Learning">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=1E90FF&width=800&lines=JavaFX+(for+Java+desktop+GUI+applications)" alt="JavaFX Learning">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=9000&color=FFD700&width=800&lines=JavaScript+(for+web+development)" alt="JavaScript Learning">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=FFD700&width=800&lines=JavaScript+(for+web+development)" alt="JavaScript Learning">
   </a>
 </p>
 
@@ -544,7 +544,7 @@ Achievements
 <!-- Combined Animation for Other Lines -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&vCenter=true&width=1000&lines=Life's+all+about+progress,+and+so+are+your+contributions!;Here's+a+fun+way+to+see+how+far+I've+come.;Watch+the+snake+glide+through+my+GitHub+activity+grid" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=10000&color=FFD700&vCenter=true&width=1000&lines=Life's+all+about+progress,+and+so+are+your+contributions!;Here's+a+fun+way+to+see+how+far+I've+come.;Watch+the+snake+glide+through+my+GitHub+activity+grid" 
          alt="Progress Animation">
   </a>
 </p>
