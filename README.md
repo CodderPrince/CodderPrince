@@ -120,7 +120,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=90EE90&width=900&lines=Web+Development:+HTML,+CSS,+JavaScript+React+TypeScript" alt="Web Development">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=90EE90&width=900&lines=Web+Development:+HTML,+CSS,+JavaScript(learning)+React" alt="Web Development">
   </a>
 </p>
 
@@ -199,7 +199,7 @@ Achievements
 
 
 ---
-
+<!--
 
 <p align="center">
   <a href="https://github.com/CodderPrince">
@@ -309,7 +309,7 @@ Achievements
 
 
 ---
-
+<!--
 <h2 align="left">✨ Currently Learning:</h2>
 
 <p align="left">
@@ -337,10 +337,11 @@ Achievements
 </p>
 
 
-
+-->
 
 
 ---
+<!--
 <h2 align="left">📚 Learning Tracker:</h2>
 
 <div align="center">
@@ -396,6 +397,9 @@ Achievements
 
 
 ---
+-->
+<!--
+
 <h2 align="left">🔥 Unique Features:</h2>
 
 
@@ -424,7 +428,7 @@ Achievements
 
 
 ---
-
+<!--
 
 
 
@@ -440,7 +444,7 @@ Achievements
 
 
 ---
-
+-->
 
 
 
@@ -573,7 +577,7 @@ Achievements
 
 ---
 ---
-
+<!--
 <h1 align="center" style="font-size: 30px; color: #FF6347;">🛠️ Tools I’ve Learned & Plan to Explore [Learning Progress]</h1>
 
 <h2 align="left" style="font-size: 30px; color: #FF6347;">Programming Languages</h2>
@@ -769,5 +773,6 @@ Achievements
 
 
 ---
+-->
 
 # ©️ 2025, 𝗠𝗱. 𝗔𝗻 𝗡𝗮𝗵𝗶𝗮𝗻 𝗣𝗿𝗶𝗻𝗰𝗲 
