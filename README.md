@@ -55,10 +55,7 @@ Image Section
 Under Image Secction
 -->
 <h2 style="text-align: justify;">
-  𝑰’𝒎 𝑷𝒓𝒊𝒏𝒄𝒆, 𝒂 𝑪𝒐𝒎𝒑𝒆𝒕𝒊𝒕𝒊𝒗𝒆 𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒆𝒓 & 𝑭𝒍𝒖𝒕𝒕𝒆𝒓 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑺𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 (𝑪𝑺𝑬) 𝒂𝒕 𝑩𝒆𝒈𝒖𝒎 𝑹𝒐𝒌𝒆𝒚𝒂 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚, 𝑹𝒂𝒏𝒈𝒑𝒖𝒓. 
-  𝑰’𝒎 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒄𝒐𝒅𝒊𝒏𝒈 𝒂𝒏𝒅 𝒂𝒍𝒘𝒂𝒚𝒔 𝒆𝒂𝒈𝒆𝒓 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏 𝒏𝒆𝒘 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔. 
-  𝑹𝒊𝒈𝒉𝒕 𝒏𝒐𝒘, 𝑰’𝒎 𝒆𝒙𝒑𝒍𝒐𝒓𝒊𝒏𝒈 𝑫𝒂𝒓𝒕, 𝑭𝒍𝒖𝒕𝒕𝒆𝒓, 𝒂𝒏𝒅 𝑱𝒂𝒗𝒂𝑭𝑿. 
-  𝑰’𝒎 𝒂𝒍𝒔𝒐 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒆𝒙𝒑𝒂𝒏𝒅𝒊𝒏𝒈 𝒎𝒚 𝒔𝒌𝒊𝒍𝒍 𝒔𝒆𝒕 𝒃𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 <strong>𝑾𝒆𝒃𝒔𝒊𝒕𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕</strong>.
+Computer Science and Engineering student at Begum Rokeya University, Rangpur with strong interest in Flutter development, competitive programming, and AI-based applications. Experienced in building mobile and web applications using Flutter, Python, Flask, Streamlit, and modern development tools. Active competitive programmer with experience in contests, problem-solving, and community leadership. I am highly interested in problem-solving, application development, and continuous learning, which consistently motivate me to grow both personally and professionally as a developer.
 </h2>
 
 
