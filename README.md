@@ -108,7 +108,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=FF5733&width=900&lines=Programming+Languages:+C,C%2B%2B,+Python,+Java,+Dart,+Kotlin" alt="Programming Languages">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=190000&color=FF5733&width=900&lines=Programming+Languages:+C,C%2B%2B,+Python,+Java,+Dart,+Kotlin" alt="Programming Languages">
   </a>
 </p>
 
@@ -117,7 +117,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=90EE90&width=900&lines=Web+Development:+HTML,+CSS,+JavaScript(learning)+React" alt="Web Development">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=190000&color=90EE90&width=900&lines=Web+Development:+HTML,+CSS,+JavaScript(learning)+React" alt="Web Development">
   </a>
 </p>
 
@@ -126,7 +126,7 @@ Achievements
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=19000&color=FFFF00&width=900&lines=Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=190000&color=FFFF00&width=900&lines=Frameworks:+JavaFX,+Streamlit,+Flask,+Flutter+(learning)" alt="Frameworks">
   </a>
 </p>
 
