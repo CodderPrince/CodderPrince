@@ -17,7 +17,7 @@ This is Salam Section
 <p align="center">
    
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=18000&color=FFA500&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=180000&color=FFA500&center=true&vCenter=true&width=1000&lines=Assalamu+Alaikum,+I'm+Prince!" alt="Assalamu Alaikum">
   </a>
 </p>
 
@@ -27,7 +27,7 @@ This is Welcome Section
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=18000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to GitHub">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=180000&color=00FF00&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to GitHub">
   </a>
 </p>
 
@@ -38,7 +38,7 @@ This is Explore Section
 -->
 <p align="center">
   <a href="https://github.com/CodderPrince">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=18000&color=87CEEB&center=true&vCenter=true&width=1000&lines=Explore+my+Projects,+Skills,+and+Learning+Journey!" alt="Explore My Journey">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=180000&color=87CEEB&center=true&vCenter=true&width=1000&lines=Explore+my+Projects,+Skills,+and+Learning+Journey!" alt="Explore My Journey">
   </a>
 </p>
 
