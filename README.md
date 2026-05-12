@@ -47,7 +47,7 @@ Image Section
 -->
 
 
-![Competitive Programmer & Website Developer](https://github.com/CodderPrince/CodderPrince/blob/main/GithubCover.png)
+![Competitive Programmer & Website Developer](https://github.com/CodderPrince/CodderPrince/blob/main/Black%20%26%20Yellow%20Business%20Facebook%20Cover_page-0001.jpg)
 
 
 
