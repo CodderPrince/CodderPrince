@@ -135,30 +135,28 @@ Achievements
 
 
 
-
+<!--
 <h2 align="left" style="padding-left: 20px; padding-bottom: 10px;">📊 GitHub Stats:</h2>
 <div align="center" style="font-size: xx-large;">
   <!-- Fixed height with overflow handling -->
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=CodderPrince&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,141E30,243B55&title_color=FFA500&icon_color=FFD700" alt="" width="1100" style="height: 400px; object-fit: cover;"/>
   <br/>
 	
 ---
 
-
-  <!-- 
-
 -->
 
  
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="900" style="height: 400px; object-fit: cover; border: 2px solid #FF4500;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=CodderPrince&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="900" style="height: 400px; object-fit: cover; border: 2px solid #FF4500;"/>
   <br/>
 
 
 
 
   ---
-  
+  <!--
 
  <h2 align="left" style="color: yellow;">🧑‍💻Most Used Languages:</h2>
 <br/>
@@ -188,7 +186,7 @@ Achievements
 
 <hr> <!-- Line After -->
 
-
+<!--
 <h2 align="left" style="color: yellow;">🔝 Top Contributed Repo:</h2>
 <img src="https://github-contributor-stats.vercel.app/api?username=CodderPrince&limit=5&theme=radical&combine_all_yearly_contributions=true" 
      alt="GitHub Contributor Stats" 
@@ -224,7 +222,7 @@ Achievements
 </p>
 
 ---
-
+<!--
 
 <h2 align="left">⏱️ WakaTime Status:</h2>
 
@@ -237,7 +235,7 @@ Achievements
 
 
 
-
+-->
 
 ---
 
@@ -446,7 +444,7 @@ Achievements
 
 
 
-
+<!--
 <h2 align="left" style="font-size: 50px; color: #FF6347; font-weight: bold;">⚡ Fun Fact:</h2>
 
 <p align="center">
@@ -456,7 +454,7 @@ Achievements
 
 
 
-
+-->
 
 
 
@@ -485,17 +483,18 @@ Achievements
 
 
 
-
+<!--
 
 <h2 align="left" style="font-size: 30px; color: #FF6347;">⚙️ Fun Widgets:</h2>
 <div align="center">
     <!-- GitHub Summary Card with adjusted width and height -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodderPrince&theme=radical" alt="GitHub Summary Card" style="margin-bottom: 20px; width: 100%; height: auto; border-radius: 15px;">
     <br/>
+<!--
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodderPrince&bg_color=2e1542&color=fbff00&line=00ffe1&point=ff00ae&area=true&hide_border=true&theme=dark" 
      alt="GitHub Activity Graph" 
      style="max-width: 100%; height: auto; border-radius: 50px;">
-
+-->
  
 ---
 
