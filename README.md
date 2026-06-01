@@ -168,17 +168,6 @@ Achievements
 ---
 
 
-<h2 align="left">🏆 GitHub Profile Trophy:</h2>
-
-<p align="left"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodderPrince&theme=flat&margin-w=10&margin-h=10" alt="CodderPrince"/></a> 
-</p>
-
-
-
----
-
-
 
 <h2 align="left">🌟 Connect with Me:</h2>
 
